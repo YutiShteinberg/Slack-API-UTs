@@ -1,2 +1,1 @@
-# Slack-API-UTs
-Slack API
+# Slack api
