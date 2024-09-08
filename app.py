@@ -36,5 +36,3 @@ def get_channel_history(channel):
         return history
     except Exception as e:
         raise e
-    
-    
